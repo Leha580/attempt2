@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "vercel",
+  "name": "vercel one more time",
   "builds": [
     {
       "src": "src/index.ts",
